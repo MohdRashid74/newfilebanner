@@ -1,0 +1,21 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.button1 {
+  background-color: white;
+  border-radius: 10px;
+  border-color: #0284c7;
+  cursor: pointer;
+  color: #0284c7;
+  margin: 10px;
+}
+.button2 {
+  background-color: white;
+  border: 0px;
+  margin: 10px;
+  cursor: pointer;
+}
